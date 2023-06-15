@@ -4,4 +4,4 @@ Proje içerisinde "ridge_regresyon.ipynb" adlı bir Jupyter Notebook dosyası bu
 Veri Setini Yükleme ve Keşfetme
 Veri Ön İşleme
 Ridge Regresyon Modelini Oluşturma ve Eğitme
-Model Performansını Değerlendirme gibi işlemleri içerir.
+Model Performansını Değerlendirme gibi işlemleri içermektedir.
